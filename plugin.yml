@@ -1,0 +1,7 @@
+name: RankPlugin
+main: com.Amit-Naik12.rankplugin.RankPlugin
+version: 1.0
+commands:
+  setrank:
+    description: Assign a rank to a player
+    usage: /setrank <player> <rank>
